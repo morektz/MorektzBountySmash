@@ -45,6 +45,10 @@ These features makes zcash a preferred privacy preserving cryptocurrency, that c
 
 </details>
 
+The [ZCASh Foundation](https://www.zfnd.org/), is a public charitable organization that builds financial privacy infrastructure for the pubic good, primariy serving the users of the ZCASH protocol and blockchain. They are also actively invovled in supporting other applications of [zero-knowledge](https://zkp.science/) cryptography as well as other approaches to private crypto currency.
+
+The Zcash Foundation funds Zcash development, research, and other ecosystem projects through a platform called [ZF Grants](https://www.zfnd.org/grants/).
+
 ## What 
 
 
