@@ -8,9 +8,6 @@
 
 <p align="center"><a href="https://www.coingecko.com/en/coins/zcash" target="_blank"> ZCASH - Coingeco</a></p>
 
-[![Generic badge](https://img.shields.io/badge/LoC-100-brightgreen.svg?style=plastic)](https://bit.ly/morektz/)
-
-
 # TOC
 
 - [1- Bounty Description](#details)
@@ -103,7 +100,10 @@ Grant ideas can be found [here](https://www.zfnd.org/grants/#grant-ideas). A sum
 2. [Core & Security](https://www.zfnd.org/grants/#core-and-security)
 3. [Mining](https://www.zfnd.org/grants/#mining)
 4. [Layer 2](https://www.zfnd.org/grants/#layer-2)
-5. 
+5. [Ongoing Services](https://www.zfnd.org/grants/#ongoing-services)
+6. [Education & Outreach](https://www.zfnd.org/grants/#education-and-outreach)
+
+
 ## Application Process 
 
 
