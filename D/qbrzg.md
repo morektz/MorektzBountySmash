@@ -17,7 +17,7 @@
 
 # Details
 
-[Research on ZCash Grants](https://www.questbook.xyz/t/research-on-zcash-grants/32)
+This repository contains the write for the following  - [Research on ZCash Grants](https://www.questbook.xyz/t/research-on-zcash-grants/32), this actionis being taken in order to achieve [THIS.](https://www.questbook.xyz/t/request-to-contribute-grants-ecosystem-research/14)
 
 This writeup follows [THIS](https://questbook.notion.site/Researching-Grants-Ecosystem-86b9f16905074b62bf72ec2783e43625) structure 
 # Writeup
