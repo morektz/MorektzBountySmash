@@ -35,6 +35,13 @@ This writeup follows [THIS](https://questbook.notion.site/Researching-Grants-Eco
 
 But unlike bitcoin, [ZCASH](https://z.cash/the-basics/) allows transactions to be completely private 
 
+[ZCASH](https://z.cash/the-basics/)is a privacy preserving crypto currency. It is quite similar to bitcoin in the aspect of having a publicly accessible transaction ledger. Its privacy component is the differentiation factor.
+
+[ZCASH](https://z.cash/the-basics/) provided privacy and anonymity in cryto transactions by the following ways 
+<ol>
+  <li>Zcash gives you the option of confidential transactions and financial privacy through **shielded addresses** </li>
+  <li></li>
+</ol>
 
 ## What 
 
