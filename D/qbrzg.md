@@ -16,15 +16,15 @@
 - [7 - Success Metrics](#success-metrics)
 - [8 - Wait Time](#wait-time)
 - [9 - Other Related Community Grants](#other-related-community-grants)
-- [10 - Learnings from the First Pilot Phase ](#learnings-from-the-first-pilot-phase)
+- [10 - Learnings from the First Pilot Phase](#learnings-from-the-first-pilot-phase)
 - [11 - Split of grants spend by categories](#split-of-grants-spend-by-categories)
-- [12 - Observations ](#observations)
+- [12 - Observations](#observations)
 
 --- 
 
 # Details
 
-This repository contains the write for the following  - [Research on ZCash Grants](https://www.questbook.xyz/t/research-on-zcash-grants/32), this actioni s being taken in order to achieve [THIS.](https://www.questbook.xyz/t/request-to-contribute-grants-ecosystem-research/14). The writeup follows [THIS](https://questbook.notion.site/Researching-Grants-Ecosystem-86b9f16905074b62bf72ec2783e43625) structure.
+This repository contains the write for the following  - [Research on ZCash Grants](https://www.questbook.xyz/t/research-on-zcash-grants/32), this actionkv s being taken in order to achieve [THIS.](https://www.questbook.xyz/t/request-to-contribute-grants-ecosystem-research/14). The writeup follows [THIS](https://questbook.notion.site/Researching-Grants-Ecosystem-86b9f16905074b62bf72ec2783e43625) structure.
 # Introdution
 
 [ZCASH](https://z.cash/the-basics/)is a privacy preserving crypto currency. It is quite similar to bitcoin in the aspect of having a publicly accessible transaction ledger. Its privacy component is the differentiation factor.
@@ -51,6 +51,8 @@ The Zcash Foundation funds Zcash development, research, and other ecosystem proj
 
 ## What 
 
+<p align="center"><a href="https://grants.zfnd.org/"target="_blank"><img src=/D/imgs/ZFG.png alt="zcash"></a><a href="https://www.zfnd.org/" target="_blank"></a>
+</p>
 
 
 ## Why 
