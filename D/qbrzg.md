@@ -34,6 +34,20 @@ This repository contains the write for the following  - [Research on ZCash Grant
 
 2. Zcash  also has selective [disclosure features](https://z.cash/technology/) that allow the sharing of some details for the prupose of compliance and audit 
 
+<details>
+
+<summary>
+Type of Zcash Transactions
+</summary>
+
+<p align="center"><a href="https://z.cash/" target="_blank">
+  <img src=/D/imgs/zft.png alt="zcash"></a>
+</p>
+
+
+</details>
+
+
 These features makes zcash a preferred privacy preserving cryptocurrency, that can be used in regulated environments. It has gained wide spread adoption, by major wallets and crypto-exchanges
 
 <details>
@@ -77,6 +91,7 @@ In addition to advancing the Zcash ecosystem. The following are guiding principl
 3. Deatailed = Includes a concrete plan of action 
 4. Justified = Aligned with the foundations [mission.](https://www.zfnd.org/about/#mission)
 ## Application Process 
+
 
 
 ## Success Metrics 
