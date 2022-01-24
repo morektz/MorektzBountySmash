@@ -1,12 +1,11 @@
 # Questbook Writeup - Research ZCash Grants 
 <p align="center"><a href="https://z.cash/" target="_blank">
-  <img src=https://z.cash/wp-content/uploads/2020/03/zcash-logo-horizontal-fullcolor.svg width ="200" alt="zcash"></a><a href="https://www.zfnd.org/" target="_blank"><img src=https://www.zfnd.org/images/logo-white-background.png width ="100" alt="zcash"></a>
+  <img src=https://z.cash/wp-content/uploads/2020/03/zcash-logo-horizontal-fullcolor.svg width ="200" alt="zcash"></a><a href="https://www.zfnd.org/" target="_blank">     <img src=https://www.zfnd.org/images/logo-white-background.png width ="100" alt="zcash"></a>
 </p>
 
 <p align="center"><a href="https://www.coingecko.com/en/coins/zcash" target="_blank"> ZCASH - Coingeco</a></p>
 
-
-https://www.zfnd.org/images/logo-white-background.png
+/images/logo-white-background.png
 
 # TOC
 
