@@ -103,7 +103,8 @@ Grant ideas can be found [here](https://www.zfnd.org/grants/#grant-ideas). A sum
 5. [Ongoing Services](https://www.zfnd.org/grants/#ongoing-services)
 6. [Education & Outreach](https://www.zfnd.org/grants/#education-and-outreach)
 
-Selection Process Process Flow
+Selection Process 
+
 
 ## Application Process 
 
