@@ -64,11 +64,18 @@ The Zcash Foundation funds Zcash development, research, and other ecosystem proj
 - Create resources for people who already save and spend ZEC.
 - Expand the Zcash community and/or increase Zcash adoption.
 
-
-
 ## Consideration Process / Selection Process 
 
+Every grant application should contain the fundamental principle of enhancing financial privacy by usage of the Zcash protocol. As described in their [GUIDE.](https://grants.zfnd.org/guide)
 
+> Privacy is the Foundation's focus and priority, so an ideal grant project is one that promotes, encourages, facilitates, or incorporates shielded addresses and z2z transactions. An ideal grant proposal defines who will benefit from the project, as well as how and why. Lastly, an ideal grant proposal is clear, pragmatic, detailed, and justified by solid evidence or reasoning.
+
+In addition to advancing the Zcash ecosystem. The following are guiding principle which every application should follow:
+
+1. Clear = Plainly stated and easy to understand
+2. Pragmatic = Has realistic goals and expectations 
+3. Deatailed = Includes a concrete plan of action 
+4. Justified = Aligned with the foundations [mission.](https://www.zfnd.org/about/#mission)
 ## Application Process 
 
 
