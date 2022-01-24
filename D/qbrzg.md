@@ -5,8 +5,6 @@
 
 <p align="center"><a href="https://www.coingecko.com/en/coins/zcash" target="_blank"> ZCASH - Coingeco</a></p>
 
-/images/logo-white-background.png
-
 # TOC
 
 - [1- Bounty Description](#details)
@@ -36,7 +34,17 @@ This writeup follows [THIS](https://questbook.notion.site/Researching-Grants-Eco
 [ZCASH](https://z.cash/the-basics/) provides privacy and anonymity in cryto transactions by the following ways 
 1. Zcash gives you the option of confidential transactions and financial privacy through **shielded addresses**.  This is made possible by [ZK(Zero Knowledge Proofs)](https://z.cash/technology/zksnarks/) -  Zero-knowledge proofs allow transactions to be verified without revealing the sender, receiver or transaction amount.
 
-2. Zcash  
+2. Zcash  also has selective [disclosure features](https://z.cash/technology/) that allow the sharing of some details for the prupose of compliance and audit 
+
+These features makes zcash a preferred privacy preserving cryptocurrency, that can be used in regulated environments.
+
+https://electriccoin.co/wp-content/uploads/2021/01/ECC-Ecosystem-Ovrvw-010621-1440x886.png
+
+
+<p align="center"><a href="https://electriccoin.co/blog/the-zcash-ecosystem-a-2020-recap/" target="_blank">
+  <img src=https://electriccoin.co/wp-content/uploads/2021/01/ECC-Ecosystem-Ovrvw-010621-1440x886.png width ="500" alt="zcash"></a><a href="https://www.zfnd.org/" target="_blank"></a>
+</p>
+
 
 ## What 
 
