@@ -112,6 +112,11 @@ Here is a brief description of the process.
 2. Step 2 - Fill out the forms
 3. Step 3 - Submit
 
+<p align="center"><a href="https://z.cash/" target="_blank">
+  <img src=/D/imgs/zf.gif alt="zcash"></a>
+</p>
+
+
 
 
 
