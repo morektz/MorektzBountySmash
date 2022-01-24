@@ -1,6 +1,7 @@
 
 <p align="center"><a href="https://bit.ly/morektz" target="_blank">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmorektz%2FMorektzBountySmash&count_bg=%23EC3140&title_bg=%23121212&icon=pingdom.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false""/></a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmorektz%2FMorektzBountySmash&count_bg=%23EC3140&title_bg=%23121212&icon=pingdom.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false""/> <a href="https://gitpod.io/#https://github.com/morektz/MorektzBountySmash" target="_blank"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod"/>
+</p></a>
 </p>
 
 <p align="center"><a href="https://bit.ly/morektz" target="_blank">
