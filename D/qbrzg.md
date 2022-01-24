@@ -103,21 +103,27 @@ Grant ideas can be found [here](https://www.zfnd.org/grants/#grant-ideas). A sum
 5. [Ongoing Services](https://www.zfnd.org/grants/#ongoing-services)
 6. [Education & Outreach](https://www.zfnd.org/grants/#education-and-outreach)
 
-
 ## Application Process 
 
-Here is a brief description of the process.
+There are primarily three avenues for getting a [grant](https://grants.zfnd.org/) 
+
+1. Method 1 - Creating a proposal as a team or individual
+2. Method 2 - Requesting an improvement to Zcash Foundation 
+3. Method 3 - [ZOMG - Zcash Open Major Grants](https://grants.zfnd.org/)
+
+The application process for allt he above mentioned methods are as follows 
 
 1. Step 1 - Register yourself at [ZCASH Grants Website](https://grants.zfnd.org/)
 2. Step 2 - Fill out the forms
 3. Step 3 - Submit
 
 <details>
-<summary> Tutorial GIF Of the application process </summary>
-<p align="center"><a href="https://grants.zfnd.org/" target="_blank">
+<summary> Interface Walkthrough Tutorial GIF </summary>
+<p align="center"><a href="https://grants.zfnd.org/proposal-tutorial" target="_blank">
   <img src=/D/imgs/zf.gif alt="zcash"></a>
 </p>
 </details>
+
 
 
 
