@@ -31,19 +31,15 @@ This repository contains the write for the following  - [Research on ZCash Grant
 This writeup follows [THIS](https://questbook.notion.site/Researching-Grants-Ecosystem-86b9f16905074b62bf72ec2783e43625) structure 
 # Writeup
 
-[ZCASH](https://z.cash/the-basics/) is a privacy centric cryptocurrency, which is similar to bitcoin. [ZCASH](https://z.cash/the-basics/) transactions are also published to a [blockchain explorer](https://explorer.zcha.in/).
-
-But unlike bitcoin, [ZCASH](https://z.cash/the-basics/) allows transactions to be completely private 
-
 [ZCASH](https://z.cash/the-basics/)is a privacy preserving crypto currency. It is quite similar to bitcoin in the aspect of having a publicly accessible transaction ledger. Its privacy component is the differentiation factor.
 
-[ZCASH](https://z.cash/the-basics/) provided privacy and anonymity in cryto transactions by the following ways 
-<ol>
-  <li>Zcash gives you the option of confidential transactions and financial privacy through **shielded addresses** </li>
-  <li></li>
-</ol>
+[ZCASH](https://z.cash/the-basics/) provides privacy and anonymity in cryto transactions by the following ways 
+1. Zcash gives you the option of confidential transactions and financial privacy through **shielded addresses**.  This is made possible by [ZK(Zero Knowledge Proofs)](https://z.cash/technology/zksnarks/) -  Zero-knowledge proofs allow transactions to be verified without revealing the sender, receiver or transaction amount.
+
+2. Zcash  
 
 ## What 
+
 
 
 ## Why 
