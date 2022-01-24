@@ -26,7 +26,11 @@ This writeup follows [THIS](https://questbook.notion.site/Researching-Grants-Eco
   <img src=https://z.cash/wp-content/uploads/2020/03/zcash-logo-horizontal-fullcolor.svg width ="200" alt="zcash"></a>
 </p>
 
-[ZCASH](https://z.cash/the-basics/)
+<p align="center"><a href="https://www.coingecko.com/en/coins/zcash" target="_blank"> ZCASH - Coingeco</a></p>
+
+[ZCASH](https://z.cash/the-basics/) is a privacy centric cryptocurrency, which is similar to bitcoin. [ZCASH](https://z.cash/the-basics/) transactions are also published to a [blockchain explorer](https://explorer.zcha.in/).
+
+But unlike bitcoin, [ZCASH](https://z.cash/the-basics/) allows transactions to be completely private 
 
 
 ## What 
