@@ -36,10 +36,13 @@ This repository contains the write for the following  - [Research on ZCash Grant
 
 These features makes zcash a preferred privacy preserving cryptocurrency, that can be used in regulated environments. It has gained wide spread adoption, by major wallets and crypto-exchanges
 
+<details>
+
 <p align="center"><a href="https://electriccoin.co/blog/the-zcash-ecosystem-a-2020-recap/" target="_blank">
-  <img src=https://electriccoin.co/wp-content/uploads/2021/01/ECC-Ecosystem-Ovrvw-010621-1440x886.png width ="500" alt="zcash"></a><a href="https://www.zfnd.org/" target="_blank"></a>
+  <img src=https://electriccoin.co/wp-content/uploads/2021/01/ECC-Ecosystem-Ovrvw-010621-1440x886.png width ="1000" alt="zcash"></a><a href="https://www.zfnd.org/" target="_blank"></a>
 </p>
 
+</details>
 
 ## What 
 
