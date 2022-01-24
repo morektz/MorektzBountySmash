@@ -23,7 +23,7 @@ This writeup follows [THIS](https://questbook.notion.site/Researching-Grants-Eco
 # Writeup
 
 <p align="center"><a href="https://z.cash/" target="_blank">
-  <img src=https://z.cash/wp-content/uploads/2020/03/zcash-logo-horizontal-fullcolor.svg alt="zcash"></a>
+  <img src=https://z.cash/wp-content/uploads/2020/03/zcash-logo-horizontal-fullcolor.svg width ="200" alt="zcash"></a>
 </p>
 
 [ZCASH](https://z.cash/the-basics/)
