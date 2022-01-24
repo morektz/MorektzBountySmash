@@ -54,7 +54,7 @@ The Zcash Foundation funds Zcash development, research, and other ecosystem proj
 [Zcash Grants](https://grants.zfnd.org/) provides funding for the Zcash ecosystem projcts.
 ## Why 
 
-[Zcash Grants](https://grants.zfnd.org/) is supported by the [ZCASh Foundation](https://www.zfnd.org/), whose goal is to advance the adoption of privacy centric financial infrastructure by adopting the [ZCASH](https://z.cash/the-basics/) protocol. As stated on the foundation's website.
+[Zcash Grants](https://grants.zfnd.org/) is supported by the [ZCASh Foundation](https://www.zfnd.org/), whose goal is to advance the adoption of privacy centric financial infrastructure by adopting the [ZCASH](https://z.cash/the-basics/) protocol. As stated on the foundation's [GUIDE.](https://grants.zfnd.org/guide)
 
 > The Zcash Foundation awards grant funding to Zcash ecosystem projects that advance our mission as a public charity. In short, that mission is to build and support privacy tools for everyone and anyone, both serving and guided by the Zcash Community.
 
