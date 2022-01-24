@@ -114,7 +114,7 @@ Here is a brief description of the process.
 
 <details>
 <summary> Tutorial GIF Of the application process </summary>
-<p align="center"><a href="https://z.cash/" target="_blank">
+<p align="center"><a href="https://grants.zfnd.org/" target="_blank">
   <img src=/D/imgs/zf.gif alt="zcash"></a>
 </p>
 </details>
