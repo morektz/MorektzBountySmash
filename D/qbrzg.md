@@ -25,7 +25,7 @@
 # Details
 
 This repository contains the write for the following  - [Research on ZCash Grants](https://www.questbook.xyz/t/research-on-zcash-grants/32), this actionkv s being taken in order to achieve [THIS.](https://www.questbook.xyz/t/request-to-contribute-grants-ecosystem-research/14). The writeup follows [THIS](https://questbook.notion.site/Researching-Grants-Ecosystem-86b9f16905074b62bf72ec2783e43625) structure.
-# Introdution
+# Introduction
 
 [ZCASH](https://z.cash/the-basics/)is a privacy preserving crypto currency. It is quite similar to bitcoin in the aspect of having a publicly accessible transaction ledger. Its privacy component is the differentiation factor.
 
@@ -53,6 +53,16 @@ The Zcash Foundation funds Zcash development, research, and other ecosystem proj
 
 [Zcash Grants](https://grants.zfnd.org/) provides funding for the Zcash ecosystem projcts.
 ## Why 
+
+[Zcash Grants](https://grants.zfnd.org/) is supported by the [ZCASh Foundation](https://www.zfnd.org/), whose goal is to advance the adoption of privacy centric financial infrastructure by adopting the [ZCASH](https://z.cash/the-basics/) protocol. As stated on the foundation's website.
+
+> The Zcash Foundation awards grant funding to Zcash ecosystem projects that advance our mission as a public charity. In short, that mission is to build and support privacy tools for everyone and anyone, both serving and guided by the Zcash Community.
+
+> We are seeking grant projects that will help people understand, access, or use Zcash and its powerful privacy protections. You should aim to achieve one of the following:
+
+- Improve the Zcash protocol or auxiliary software (inclusive of research).
+- Create resources for people who already save and spend ZEC.
+- Expand the Zcash community and/or increase Zcash adoption.
 
 
 
