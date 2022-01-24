@@ -13,7 +13,7 @@ This repo will have information about attempted bounties from multiple sources. 
 
 # Bounties 
 
-|n|Date|Desc
+|n|Type|Desc
 |:---|:--:|:---:|
-1| Mon 24 Jan 2022 01:34:27 PM UTC | [Questbook Writeup - Research ZCash Grants](D/qbrzg.md)
+1| Research Report | [Questbook Writeup - Research ZCash Grants](D/qbrzg.md)
 
