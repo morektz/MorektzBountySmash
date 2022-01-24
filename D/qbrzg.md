@@ -1,6 +1,6 @@
 # Questbook Writeup - Research ZCash Grants 
 <p align="center"><a href="https://z.cash/" target="_blank">
-  <img src=https://z.cash/wp-content/uploads/2020/03/zcash-logo-horizontal-fullcolor.svg width ="200" alt="zcash"></a><a href="https://www.zfnd.org/" target="_blank">     <img src=https://www.zfnd.org/images/logo-white-background.png width ="100" alt="zcash">  <a href="https://grants.zfnd.org/"target="_blank"><img src=/D/imgs/ZFG.png alt="zcash"></a>
+  <img src=https://z.cash/wp-content/uploads/2020/03/zcash-logo-horizontal-fullcolor.svg width ="200" alt="zcash"></a><a href="https://www.zfnd.org/" target="_blank"><img src=https://www.zfnd.org/images/logo-white-background.png width ="100" alt="zcash">  <a href="https://grants.zfnd.org/"target="_blank"><img src=/D/imgs/ZFG.png alt="zcash"></a>
 </p>
 
 <p align="center"><a href="https://www.coingecko.com/en/coins/zcash" target="_blank"> ZCASH - Coingeco</a></p>
@@ -51,11 +51,9 @@ The Zcash Foundation funds Zcash development, research, and other ecosystem proj
 
 ## What 
 
-<p align="center"><a href="https://grants.zfnd.org/"target="_blank"><img src=/D/imgs/ZFG.png alt="zcash"></a><a href="https://www.zfnd.org/" target="_blank"></a>
-</p>
-
-
+[Zcash Grants](https://grants.zfnd.org/) provides funding for the Zcash ecosystem projcts.
 ## Why 
+
 
 
 ## Consideration Process / Selection Process 
