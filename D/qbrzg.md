@@ -22,6 +22,13 @@ This repository contains the write for the following  - [Research on ZCash Grant
 This writeup follows [THIS](https://questbook.notion.site/Researching-Grants-Ecosystem-86b9f16905074b62bf72ec2783e43625) structure 
 # Writeup
 
+<p align="center"><a href="https://z.cash/" target="_blank">
+  <img src=https://z.cash/wp-content/uploads/2020/03/zcash-logo-horizontal-fullcolor.svg alt="zcash"></a>
+</p>
+
+[ZCASH](https://z.cash/the-basics/)
+
+
 ## What 
 
 
