@@ -4,7 +4,6 @@
 </p>
 
 <p align="center"><a href="https://bit.ly/morektz" target="_blank">
-
-  <img src=https://media.giphy.com/media/aS8ypUweGOXMA/giphy-downsized.gif alt="Morektz">/</a>
+  <img src=https://media.giphy.com/media/aS8ypUweGOXMA/giphy-downsized.gif alt="Morektz"></a>
 </p>
 
