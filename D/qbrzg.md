@@ -8,24 +8,24 @@
 # TOC
 
 - [1- Bounty Description](#details)
-- [2 - Writeup](#writeup)
-    * [2.1 - What](#what)
-    * [2.2 - Why](#why)
-    * [2.3 - Considerations Process / Selection Process](#consideration-process--selection-process)
-    * [2.4 - Application Process](#application-process)
-    * [2.5 - Success Metrics](#success-metrics)
-    * [2.6 - Wait Time](#wait-time)
-    * [2.7 Other Related Community Grants](#other-related-community-grants)
-    * [2.8  - Learnings from the First Pilot Phase ](#learnings-from-the-first-pilot-phase)
-    * [2.9 - Split of grants spend by categories](#split-of-grants-spend-by-categories)
-    * [2.10 - Observations ](#observations)
+- [2 - Introduction](#Introduction)
+- [3 - What](#what)
+- [4- Why](#why)
+- [5 - Considerations Process / Selection Process](#consideration-process--selection-process)
+- [6- Application Process](#application-process)
+- [7 - Success Metrics](#success-metrics)
+- [8 - Wait Time](#wait-time)
+- [9 -Other Related Community Grants](#other-related-community-grants)
+- [10 - Learnings from the First Pilot Phase ](#learnings-from-the-first-pilot-phase)
+- [11 - Split of grants spend by categories](#split-of-grants-spend-by-categories)
+- [12 - Observations ](#observations)
 
 --- 
 
 # Details
 
 This repository contains the write for the following  - [Research on ZCash Grants](https://www.questbook.xyz/t/research-on-zcash-grants/32), this actioni s being taken in order to achieve [THIS.](https://www.questbook.xyz/t/request-to-contribute-grants-ecosystem-research/14). The writeup follows [THIS](https://questbook.notion.site/Researching-Grants-Ecosystem-86b9f16905074b62bf72ec2783e43625) structure.
-# Writeup
+# Introdution
 
 [ZCASH](https://z.cash/the-basics/)is a privacy preserving crypto currency. It is quite similar to bitcoin in the aspect of having a publicly accessible transaction ledger. Its privacy component is the differentiation factor.
 
