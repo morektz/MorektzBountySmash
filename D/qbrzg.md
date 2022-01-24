@@ -1,9 +1,15 @@
+<p align="center"><a href="https://bit.ly/morektz" target="_blank"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmorektz%2FMorektzBountySmash&count_bg=%23EC3140&title_bg=%23121212&icon=pingdom.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false""/>  <img src="https://img.shields.io/badge/LoC-100-brightgreen.svg?style=plastic"> <a href="https://gitpod.io/#https://github.com/morektz/MorektzBountySmash" target="_blank"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod"/></a>
+</p>
+
 # Questbook Writeup - Research ZCash Grants 
 <p align="center"><a href="https://z.cash/" target="_blank">
   <img src=https://z.cash/wp-content/uploads/2020/03/zcash-logo-horizontal-fullcolor.svg width ="200" alt="zcash"></a><a href="https://www.zfnd.org/" target="_blank"><img src=https://www.zfnd.org/images/logo-white-background.png width ="100" alt="zcash">  <a href="https://grants.zfnd.org/"target="_blank"><img src=/D/imgs/ZFG.png alt="zcash"></a>
 </p>
 
 <p align="center"><a href="https://www.coingecko.com/en/coins/zcash" target="_blank"> ZCASH - Coingeco</a></p>
+
+[![Generic badge](https://img.shields.io/badge/LoC-100-brightgreen.svg?style=plastic)](https://bit.ly/morektz/)
+
 
 # TOC
 
@@ -90,6 +96,14 @@ In addition to advancing the Zcash ecosystem. The following are guiding principl
 2. Pragmatic = Has realistic goals and expectations 
 3. Deatailed = Includes a concrete plan of action 
 4. Justified = Aligned with the foundations [mission.](https://www.zfnd.org/about/#mission)
+
+Grant ideas can be found [here](https://www.zfnd.org/grants/#grant-ideas). A summary of these are as follows 
+
+1. [Wallets](https://www.zfnd.org/grants/#wallets) 
+2. [Core & Security](https://www.zfnd.org/grants/#core-and-security)
+3. [Mining](https://www.zfnd.org/grants/#mining)
+4. [Layer 2](https://www.zfnd.org/grants/#layer-2)
+5. 
 ## Application Process 
 
 
