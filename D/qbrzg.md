@@ -62,7 +62,7 @@ These features makes zcash a preferred privacy preserving cryptocurrency, that c
 
 </details>
 
-The [ZCASh Foundation](https://www.zfnd.org/), is a public charitable organization that builds financial privacy infrastructure for the pubic good, primariy serving the users of the ZCASH protocol and blockchain. They are also actively invovled in supporting other applications of [zero-knowledge](https://zkp.science/) cryptography as well as other approaches to private crypto currency.
+The [ZCASH Foundation](https://www.zfnd.org/), is a public charitable organization that builds financial privacy infrastructure for the pubic good, primariy serving the users of the ZCASH protocol and blockchain. They are also actively invovled in supporting other applications of [zero-knowledge](https://zkp.science/) cryptography as well as other approaches to private crypto currency.
 
 The Zcash Foundation funds Zcash development, research, and other ecosystem projects through a platform called [ZF Grants](https://www.zfnd.org/grants/).
 
@@ -94,7 +94,7 @@ In addition to advancing the Zcash ecosystem. The following are guiding principl
 3. Deatailed = Includes a concrete plan of action 
 4. Justified = Aligned with the foundations [mission.](https://www.zfnd.org/about/#mission)
 
-Grant ideas can be found [here](https://www.zfnd.org/grants/#grant-ideas). A summary of these are as follows 
+Grant ideas can be found [here](https://www.zfnd.org/grants/#grant-ideas). A summary of these are as follows:
 
 1. [Wallets](https://www.zfnd.org/grants/#wallets) 
 2. [Core & Security](https://www.zfnd.org/grants/#core-and-security)
@@ -105,6 +105,14 @@ Grant ideas can be found [here](https://www.zfnd.org/grants/#grant-ideas). A sum
 
 
 ## Application Process 
+
+Here is a brief description of the process.
+
+1. Step 1 - Register yourself at [ZCASH Grants Website](https://grants.zfnd.org/)
+2. Step 2 - Fill out the forms
+3. Step 3 - Submit
+
+
 
 
 
