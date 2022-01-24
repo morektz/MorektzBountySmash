@@ -1,3 +1,13 @@
+# Questbook Writeup - Research ZCash Grants 
+<p align="center"><a href="https://z.cash/" target="_blank">
+  <img src=https://z.cash/wp-content/uploads/2020/03/zcash-logo-horizontal-fullcolor.svg width ="200" alt="zcash"></a><a href="https://www.zfnd.org/" target="_blank"><img src=https://www.zfnd.org/images/logo-white-background.png width ="100" alt="zcash"></a>
+</p>
+
+<p align="center"><a href="https://www.coingecko.com/en/coins/zcash" target="_blank"> ZCASH - Coingeco</a></p>
+
+
+https://www.zfnd.org/images/logo-white-background.png
+
 # TOC
 
 - [1- Bounty Description](#details)
@@ -21,12 +31,6 @@ This repository contains the write for the following  - [Research on ZCash Grant
 
 This writeup follows [THIS](https://questbook.notion.site/Researching-Grants-Ecosystem-86b9f16905074b62bf72ec2783e43625) structure 
 # Writeup
-
-<p align="center"><a href="https://z.cash/" target="_blank">
-  <img src=https://z.cash/wp-content/uploads/2020/03/zcash-logo-horizontal-fullcolor.svg width ="200" alt="zcash"></a>
-</p>
-
-<p align="center"><a href="https://www.coingecko.com/en/coins/zcash" target="_blank"> ZCASH - Coingeco</a></p>
 
 [ZCASH](https://z.cash/the-basics/) is a privacy centric cryptocurrency, which is similar to bitcoin. [ZCASH](https://z.cash/the-basics/) transactions are also published to a [blockchain explorer](https://explorer.zcha.in/).
 
