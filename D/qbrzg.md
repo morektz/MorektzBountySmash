@@ -1,7 +1,7 @@
 # TOC
 
-[Bounty Description](#details)
-[Writeup](#writeup)
+- [Bounty Description](#details)
+- [Writeup](#writeup)
 
 
 # Details 
