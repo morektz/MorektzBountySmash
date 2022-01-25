@@ -16,7 +16,7 @@
 - [Why](#why)
 - [Considerations Process / Selection Process](#consideration-process--selection-process)
 - [Application Process](#application-process)
-  * [Selection Process](##selection-process)
+  * [Selection Process](#selection-process)
 - [Success Metrics](#success-metrics)
 - [Wait Time](#wait-time)
 - [Other Related Community Grants](#other-related-community-grants)
