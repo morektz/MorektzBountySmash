@@ -19,6 +19,7 @@
   * [Selection Process](#selection-process)
 - [Success Metrics](#success-metrics)
 - [Wait Time](#wait-time)
+- [DISCLAIMER](#disclaimer)
 
 --- 
 
@@ -154,3 +155,18 @@ Applicaitions are reviewed, and preliminary decisions to move to the next stage 
 Registered users from their main application [website](https://grants.zfnd.org/), will receive email notifications at every stage of the process.
 
 You can view active proposals [HERE.](https://grants.zfnd.org/proposals) and official requests can be found [here.](https://grants.zfnd.org/requests)
+
+# Disclaimer 
+
+<details>
+
+<summary>
+OFFICIAL DISCLAIMER FROM THE AUTHOR OF THIS DOCUMENT
+</summary>
+ALL INFORMATION CONTAINED IN THIS DOCUMENT IS FROM THE [ZCASH OFFICIAL WEBSITE.](https://z.cash/) IT IS FREE FROM ANY DIRECT OR INDIRECT SUBJECTIVE INTERPRETATION. THE AUTHOR IS NOT ASSOCIATED WITH THE ORGANIZATION IN ANY FORM, AND WILL NOT ENTERTAIN ANY INQUIRIES REGARDING THE GRANTS OR FUNDING PROCESS. THIS DOCUMENT HAS BEEN CREATED STRICTLY FOR EDUCATIONAL PURPOSES. THE AUTHOR IS FREE FROM ANY CLAIMS OR DISPUTES THAT ARISE FROM READING AND USING THE INFORMATION IN THIS DOCUMENT. READING THIS DOCUMENT IS EXPRESS AND UNEQUIVOCAL AGREEMENT TO THE CONTENTS AS SET OUT IN THIS DISCLAIMER.
+</details>
+
+
+https://www.gifs.cc/lines/line-light-animation.gif
+
+![](https://www.gifs.cc/lines/line-light-animation.gif)
