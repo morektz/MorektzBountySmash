@@ -19,10 +19,6 @@
   * [Selection Process](#selection-process)
 - [Success Metrics](#success-metrics)
 - [Wait Time](#wait-time)
-- [Other Related Community Grants](#other-related-community-grants)
-- [Learnings from the First Pilot Phase](#learnings-from-the-first-pilot-phase)
-- [Split of grants spend by categories](#split-of-grants-spend-by-categories)
-- [Observations](#observations)
 
 --- 
 
@@ -72,7 +68,7 @@ The Zcash Foundation funds Zcash development, research, and other ecosystem proj
 [Zcash Grants](https://grants.zfnd.org/) provides funding for the Zcash ecosystem projects.
 ## Why 
 
-[Zcash Grants](https://grants.zfnd.org/) is supported by the [ZCASh Foundation](https://www.zfnd.org/), whose goal is to advance the adoption of privacy centric financial infrastructure by adopting the [ZCASH](https://z.cash/the-basics/) protocol. As stated on the foundation's [GUIDE.](https://grants.zfnd.org/guide)
+[Zcash Grants](https://grants.zfnd.org/) is supported by the [ZCASH Foundation](https://www.zfnd.org/), whose goal is to advance the adoption of privacy centric financial infrastructure by adopting the [ZCASH](https://z.cash/the-basics/) protocol. As stated on the foundation's [GUIDE.](https://grants.zfnd.org/guide)
 
 > The Zcash Foundation awards grant funding to Zcash ecosystem projects that advance our mission as a public charity. In short, that mission is to build and support privacy tools for everyone and anyone, both serving and guided by the Zcash Community.
 
@@ -90,9 +86,9 @@ Every grant application should contain the fundamental principle of enhancing fi
 
 In addition to advancing the Zcash ecosystem. The following are guiding principle which every application should follow:
 
-1. Clear = Plainly stated and easy to understand
-2. Pragmatic = Has realistic goals and expectations 
-3. Deatailed = Includes a concrete plan of action 
+1. Clear = Plainly stated and easy to understand.
+2. Pragmatic = Has realistic goals and expectations.
+3. Deatailed = Includes a concrete plan of action
 4. Justified = Aligned with the foundations [mission.](https://www.zfnd.org/about/#mission)
 
 Grant ideas can be found [here](https://www.zfnd.org/grants/#grant-ideas). A summary of these are as follows:
@@ -158,16 +154,3 @@ Applicaitions are reviewed, and preliminary decisions to move to the next stage 
 Registered users from their main application [website](https://grants.zfnd.org/), will receive email notifications at every stage of the process.
 
 You can view active proposals [HERE.](https://grants.zfnd.org/proposals) and official requests can be found [here.](https://grants.zfnd.org/requests)
-
-
-
-## Other Related Community Grants 
-
-
-## Learnings from the First Pilot Phase 
-
-
-## Split of grants spend by categories 
-
-
-## Observations 
