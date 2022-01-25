@@ -10,18 +10,19 @@
 
 # TOC
 
-- [1- Bounty Description](#details)
-- [2 - Introduction](#Introduction)
-- [3 - What](#what)
-- [4 - Why](#why)
-- [5 - Considerations Process / Selection Process](#consideration-process--selection-process)
-- [6 - Application Process](#application-process)
-- [7 - Success Metrics](#success-metrics)
-- [8 - Wait Time](#wait-time)
-- [9 - Other Related Community Grants](#other-related-community-grants)
-- [10 - Learnings from the First Pilot Phase](#learnings-from-the-first-pilot-phase)
-- [11 - Split of grants spend by categories](#split-of-grants-spend-by-categories)
-- [12 - Observations](#observations)
+- [Bounty Description](#details)
+- [Introduction](#Introduction)
+- [What](#what)
+- [Why](#why)
+- [Considerations Process / Selection Process](#consideration-process--selection-process)
+- [Application Process](#application-process)
+  * [Selection Process](##selection-process)
+- [Success Metrics](#success-metrics)
+- [Wait Time](#wait-time)
+- [Other Related Community Grants](#other-related-community-grants)
+- [Learnings from the First Pilot Phase](#learnings-from-the-first-pilot-phase)
+- [Split of grants spend by categories](#split-of-grants-spend-by-categories)
+- [Observations](#observations)
 
 --- 
 
@@ -35,7 +36,7 @@ This repository contains the write for the following  - [Research on ZCash Grant
 [ZCASH](https://z.cash/the-basics/) provides privacy and anonymity in cryto transactions by the following ways 
 1. Zcash gives you the option of confidential transactions and financial privacy through **shielded addresses**.  This is made possible by [ZK(Zero Knowledge Proofs)](https://z.cash/technology/zksnarks/) -  Zero-knowledge proofs allow transactions to be verified without revealing the sender, receiver or transaction amount.
 
-2. Zcash  also has selective [disclosure features](https://z.cash/technology/) that allow the sharing of some details for the prupose of compliance and audit 
+2. Zcash  also has selective [disclosure features](https://z.cash/technology/) that allow the sharing of some details for the prupose of compliance and audit.
 
 <details>
 
@@ -51,7 +52,7 @@ Type of Zcash Transactions
 </details>
 
 
-These features makes zcash a preferred privacy preserving cryptocurrency, that can be used in regulated environments. It has gained wide spread adoption, by major wallets and crypto-exchanges
+These features makes zcash a preferred privacy preserving cryptocurrency, that can be used in regulated environments. It has gained wide spread adoption, by major wallets and crypto-exchanges.
 
 <details>
 <summary> Current ecosystem as of 2020 </summary>
@@ -103,7 +104,7 @@ Grant ideas can be found [here](https://www.zfnd.org/grants/#grant-ideas). A sum
 5. [Ongoing Services](https://www.zfnd.org/grants/#ongoing-services)
 6. [Education & Outreach](https://www.zfnd.org/grants/#education-and-outreach)
 
-Selection Process 
+## Selection Process
 
 
 ## Application Process 
