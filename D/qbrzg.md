@@ -106,6 +106,20 @@ Grant ideas can be found [here](https://www.zfnd.org/grants/#grant-ideas). A sum
 
 ## Selection Process
 
+A detailed overview of the selection process for grants by [ZOMG](https://zcashomg.org/) can be found [HERE.](https://zcashomg.org/selection-process.html).
+
+<details>
+
+<summary>
+Generic Overview of the Selection Process
+</summary>
+
+<p align="center"><a href="https://zcashomg.org/selection-process.html/" target="_blank"><img src=https://raw.githubusercontent.com/morektz/SolanaLearningMindMaps/main/ep/zfg.png width ="1000" alt="zcash"></a><a href="https://www.zfnd.org/" target="_blank"></a>
+</p>
+
+</details>
+
+
 
 ## Application Process 
 
