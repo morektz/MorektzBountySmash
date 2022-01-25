@@ -142,13 +142,23 @@ The application process for allt he above mentioned methods are as follows
 </p>
 </details>
 
-
-
-
 ## Success Metrics 
 
+A successful application should contain the following principles,as stated on the [official guide.](https://grants.zfnd.org/guide)
+
+> We are seeking grant projects that will help people understand, access, or use Zcash and its powerful privacy protections. You should aim to achieve one of the following:
+> 1. Improve the Zcash protocol or auxiliary software (inclusive of research).
+> 2.  Create resources for people who already save and spend ZEC.
+> 3. Expand the Zcash community and/or increase Zcash adoption.
 
 ## Wait Time 
+
+Applicaitions are reviewed, and preliminary decisions to move to the next stage for community approval/feedback, occurs in their [BIWEEKLY MEETINGS](https://zcashomg.org/selection-process.html). 
+
+Registered users from their main application [website](https://grants.zfnd.org/), will receive email notifications at every stage of the process.
+
+You can view active proposals [HERE.](https://grants.zfnd.org/proposals) and official requests can be found [here.](https://grants.zfnd.org/requests)
+
 
 
 ## Other Related Community Grants 
