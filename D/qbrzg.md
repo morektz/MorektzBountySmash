@@ -31,7 +31,7 @@
 This repository contains the write for the following  - [Research on ZCash Grants](https://www.questbook.xyz/t/research-on-zcash-grants/32), this actionkv s being taken in order to achieve [THIS.](https://www.questbook.xyz/t/request-to-contribute-grants-ecosystem-research/14). The writeup follows [THIS](https://questbook.notion.site/Researching-Grants-Ecosystem-86b9f16905074b62bf72ec2783e43625) structure.
 # Introduction
 
-[ZCASH](https://z.cash/the-basics/)is a privacy preserving crypto currency. It is quite similar to bitcoin in the aspect of having a publicly accessible transaction ledger. Its privacy component is the differentiation factor.
+[ZCASH](https://z.cash/the-basics/) is a privacy preserving crypto currency. It is quite similar to bitcoin in the aspect of having a publicly accessible transaction ledger. Its privacy component is the differentiation factor.
 
 [ZCASH](https://z.cash/the-basics/) provides privacy and anonymity in cryto transactions by the following ways 
 1. Zcash gives you the option of confidential transactions and financial privacy through **shielded addresses**.  This is made possible by [ZK(Zero Knowledge Proofs)](https://z.cash/technology/zksnarks/) -  Zero-knowledge proofs allow transactions to be verified without revealing the sender, receiver or transaction amount.
@@ -69,7 +69,7 @@ The Zcash Foundation funds Zcash development, research, and other ecosystem proj
 
 ## What 
 
-[Zcash Grants](https://grants.zfnd.org/) provides funding for the Zcash ecosystem projcts.
+[Zcash Grants](https://grants.zfnd.org/) provides funding for the Zcash ecosystem projects.
 ## Why 
 
 [Zcash Grants](https://grants.zfnd.org/) is supported by the [ZCASh Foundation](https://www.zfnd.org/), whose goal is to advance the adoption of privacy centric financial infrastructure by adopting the [ZCASH](https://z.cash/the-basics/) protocol. As stated on the foundation's [GUIDE.](https://grants.zfnd.org/guide)
