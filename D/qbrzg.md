@@ -65,10 +65,10 @@ The [ZCASH Foundation](https://www.zfnd.org/), is a public charitable organizati
 
 The Zcash Foundation funds Zcash development, research, and other ecosystem projects through a platform called [ZF Grants](https://www.zfnd.org/grants/).
 
-## 🟧What 
+# 🟧What 
 
 [Zcash Grants](https://grants.zfnd.org/) provides funding for the Zcash ecosystem projects.
-## 🟧Why 
+# 🟧Why 
 
 [Zcash Grants](https://grants.zfnd.org/) is supported by the [ZCASH Foundation](https://www.zfnd.org/), whose goal is to advance the adoption of privacy centric financial infrastructure by adopting the [ZCASH](https://z.cash/the-basics/) protocol. As stated on the foundation's [GUIDE.](https://grants.zfnd.org/guide)
 
@@ -80,7 +80,7 @@ The Zcash Foundation funds Zcash development, research, and other ecosystem proj
 - Create resources for people who already save and spend ZEC.
 - Expand the Zcash community and/or increase Zcash adoption.
 
-## 🟧Consideration Process / Selection Process 
+# 🟧Consideration Process / Selection Process 
 
 Every grant application should contain the fundamental principle of enhancing financial privacy by usage of the Zcash protocol. As described in their [GUIDE.](https://grants.zfnd.org/guide)
 
@@ -118,7 +118,7 @@ A detailed overview of the selection process for grants by [ZOMG](https://zcasho
 
 
 
-## 🟧Application Process 
+# 🟧Application Process 
 
 There are primarily three avenues for getting a [grant](https://grants.zfnd.org/) 
 
@@ -139,7 +139,7 @@ The application process for allt he above mentioned methods are as follows
 </p>
 </details>
 
-## 🟧Success Metrics 
+# 🟧Success Metrics 
 
 A successful application should contain the following principles,as stated on the [official guide.](https://grants.zfnd.org/guide)
 
@@ -148,7 +148,7 @@ A successful application should contain the following principles,as stated on th
 > 2.  Create resources for people who already save and spend ZEC.
 > 3. Expand the Zcash community and/or increase Zcash adoption.
 
-## 🟧Wait Time 
+# 🟧Wait Time 
 
 Applicaitions are reviewed, and preliminary decisions to move to the next stage for community approval/feedback, occurs in their [BIWEEKLY MEETINGS](https://zcashomg.org/selection-process.html). 
 
