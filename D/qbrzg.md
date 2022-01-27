@@ -10,7 +10,7 @@
 
 # TOC
 
-- [🟧Bounty Description](#details)
+- [🔶Bounty Description](#details)
 - [🟧Introduction](#Introduction)
 - [🟧What](#what)
 - [🟧Why](#why)
@@ -19,12 +19,12 @@
   * [🟠Selection Process](#selection-process)
 - [🟧Success Metrics](#success-metrics)
 - [🟧Wait Time](#wait-time)
-- [🟧DISCLAIMER](#disclaimer)
 - [🟧Split of grants spend by categories](#grants-split)
+- [⚠️DISCLAIMER](#disclaimer)
 
 --- 
 
-# 🟧Details
+# 🔶Details
 
 This repository contains the report for the following  - [Research on ZCash Grants](https://www.questbook.xyz/t/research-on-zcash-grants/32), this action is being taken in order to achieve [THIS.](https://www.questbook.xyz/t/request-to-contribute-grants-ecosystem-research/14) This report follows [THIS](https://questbook.notion.site/Researching-Grants-Ecosystem-86b9f16905074b62bf72ec2783e43625) structure.
 # 🟧Introduction
@@ -39,7 +39,7 @@ This repository contains the report for the following  - [Research on ZCash Gran
 <details>
 
 <summary>
-📂 Type of Zcash Transactions
+📂Type of Zcash Transactions
 </summary>
 
 <p align="center"><a href="https://z.cash/" target="_blank">
@@ -53,7 +53,7 @@ This repository contains the report for the following  - [Research on ZCash Gran
 These features makes zcash a preferred privacy preserving cryptocurrency, that can be used in regulated environments. It has gained wide spread adoption, by major wallets and crypto-exchanges.
 
 <details>
-<summary> Current ecosystem as of 2020 </summary>
+<summary> 📂Current ecosystem as of 2020 </summary>
 
 <p align="center"><a href="https://electriccoin.co/blog/the-zcash-ecosystem-a-2020-recap/" target="_blank">
   <img src=https://electriccoin.co/wp-content/uploads/2021/01/ECC-Ecosystem-Ovrvw-010621-1440x886.png width ="1000" alt="zcash"></a><a href="https://www.zfnd.org/" target="_blank"></a>
@@ -102,14 +102,13 @@ Grant ideas can be found [here](https://www.zfnd.org/grants/#grant-ideas). A sum
 5. [Ongoing Services](https://www.zfnd.org/grants/#ongoing-services)
 6. [Education & Outreach](https://www.zfnd.org/grants/#education-and-outreach)
 
-## 🟧Selection Process
+## 🟠Selection Process
 
 A detailed overview of the selection process for grants by [ZOMG](https://zcashomg.org/) can be found [HERE.](https://zcashomg.org/selection-process.html).
 
 <details>
-
 <summary>
-Generic Overview of the Selection Process
+📂Generic Overview of the Selection Process
 </summary>
 
 <p align="center"><a href="https://zcashomg.org/selection-process.html" target="_blank"><img src=https://raw.githubusercontent.com/morektz/SolanaLearningMindMaps/main/ep/zfg.png width ="1000" alt="zcash"></a><a href="https://www.zfnd.org/" target="_blank"></a>
@@ -134,7 +133,7 @@ The application process for allt he above mentioned methods are as follows
 3. Step 3 - Submit
 
 <details>
-<summary> Interface Walkthrough Tutorial GIF </summary>
+<summary> 📂Interface Walkthrough Tutorial GIF </summary>
 <p align="center"><a href="https://grants.zfnd.org/proposal-tutorial" target="_blank">
   <img src=/D/imgs/zf.gif alt="zcash"></a>
 </p>
@@ -170,7 +169,7 @@ This report gives a summary of the proposals are funded not distinguished by any
 
 <details>
 <summary>
-Slide 21 of Q3 2021 Report
+📂Slide 21 of Q3 2021 Report
 </summary>
 <p align="center"><a href="https://www.zfnd.org/blog/zf-q3-2021-report/" target="_blank">
   <img src=/D/imgs/zqr.png alt="zcash"></a>
@@ -191,7 +190,7 @@ USD.
 <details>
 
 <summary>
-OFFICIAL DISCLAIMER FROM THE AUTHOR OF THIS DOCUMENT
+📂OFFICIAL DISCLAIMER FROM THE AUTHOR OF THIS DOCUMENT
 </summary>
 ***
 
