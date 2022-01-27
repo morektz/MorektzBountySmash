@@ -10,24 +10,24 @@
 
 # TOC
 
-- [Bounty Description](#details)
-- [Introduction](#Introduction)
-- [What](#what)
-- [Why](#why)
-- [Considerations Process / Selection Process](#consideration-process--selection-process)
-- [Application Process](#application-process)
-  * [Selection Process](#selection-process)
-- [Success Metrics](#success-metrics)
-- [Wait Time](#wait-time)
-- [DISCLAIMER](#disclaimer)
-- [Split of grants spend by categories](#grants-split)
+- [🟧Bounty Description](#details)
+- [🟧Introduction](#Introduction)
+- [🟧What](#what)
+- [🟧Why](#why)
+- [🟧Considerations Process / Selection Process](#consideration-process--selection-process)
+- [🟧Application Process](#application-process)
+  * [🟠Selection Process](#selection-process)
+- [🟧Success Metrics](#success-metrics)
+- [🟧Wait Time](#wait-time)
+- [🟧DISCLAIMER](#disclaimer)
+- [🟧Split of grants spend by categories](#grants-split)
 
 --- 
 
-# Details
+# 🟧Details
 
 This repository contains the report for the following  - [Research on ZCash Grants](https://www.questbook.xyz/t/research-on-zcash-grants/32), this action is being taken in order to achieve [THIS.](https://www.questbook.xyz/t/request-to-contribute-grants-ecosystem-research/14) This report follows [THIS](https://questbook.notion.site/Researching-Grants-Ecosystem-86b9f16905074b62bf72ec2783e43625) structure.
-# Introduction
+# 🟧Introduction
 
 [ZCASH](https://z.cash/the-basics/) is a privacy preserving crypto currency. It is quite similar to bitcoin in the aspect of having a publicly accessible transaction ledger. Its privacy component is the differentiation factor.
 
@@ -39,7 +39,7 @@ This repository contains the report for the following  - [Research on ZCash Gran
 <details>
 
 <summary>
-Type of Zcash Transactions
+📂 Type of Zcash Transactions
 </summary>
 
 <p align="center"><a href="https://z.cash/" target="_blank">
@@ -65,10 +65,10 @@ The [ZCASH Foundation](https://www.zfnd.org/), is a public charitable organizati
 
 The Zcash Foundation funds Zcash development, research, and other ecosystem projects through a platform called [ZF Grants](https://www.zfnd.org/grants/).
 
-## What 
+## 🟧What 
 
 [Zcash Grants](https://grants.zfnd.org/) provides funding for the Zcash ecosystem projects.
-## Why 
+## 🟧Why 
 
 [Zcash Grants](https://grants.zfnd.org/) is supported by the [ZCASH Foundation](https://www.zfnd.org/), whose goal is to advance the adoption of privacy centric financial infrastructure by adopting the [ZCASH](https://z.cash/the-basics/) protocol. As stated on the foundation's [GUIDE.](https://grants.zfnd.org/guide)
 
@@ -80,7 +80,7 @@ The Zcash Foundation funds Zcash development, research, and other ecosystem proj
 - Create resources for people who already save and spend ZEC.
 - Expand the Zcash community and/or increase Zcash adoption.
 
-## Consideration Process / Selection Process 
+## 🟧Consideration Process / Selection Process 
 
 Every grant application should contain the fundamental principle of enhancing financial privacy by usage of the Zcash protocol. As described in their [GUIDE.](https://grants.zfnd.org/guide)
 
@@ -102,7 +102,7 @@ Grant ideas can be found [here](https://www.zfnd.org/grants/#grant-ideas). A sum
 5. [Ongoing Services](https://www.zfnd.org/grants/#ongoing-services)
 6. [Education & Outreach](https://www.zfnd.org/grants/#education-and-outreach)
 
-## Selection Process
+## 🟧Selection Process
 
 A detailed overview of the selection process for grants by [ZOMG](https://zcashomg.org/) can be found [HERE.](https://zcashomg.org/selection-process.html).
 
@@ -119,7 +119,7 @@ Generic Overview of the Selection Process
 
 
 
-## Application Process 
+## 🟧Application Process 
 
 There are primarily three avenues for getting a [grant](https://grants.zfnd.org/) 
 
@@ -140,7 +140,7 @@ The application process for allt he above mentioned methods are as follows
 </p>
 </details>
 
-## Success Metrics 
+## 🟧Success Metrics 
 
 A successful application should contain the following principles,as stated on the [official guide.](https://grants.zfnd.org/guide)
 
@@ -149,7 +149,7 @@ A successful application should contain the following principles,as stated on th
 > 2.  Create resources for people who already save and spend ZEC.
 > 3. Expand the Zcash community and/or increase Zcash adoption.
 
-## Wait Time 
+## 🟧Wait Time 
 
 Applicaitions are reviewed, and preliminary decisions to move to the next stage for community approval/feedback, occurs in their [BIWEEKLY MEETINGS](https://zcashomg.org/selection-process.html). 
 
@@ -158,7 +158,7 @@ Registered users from their main application [website](https://grants.zfnd.org/)
 You can view active proposals [HERE.](https://grants.zfnd.org/proposals) and official requests can be found [here.](https://grants.zfnd.org/requests)
 
 
-# Grants Split 
+# 🟧Grants Split 
 
 Neither [ZF Foundation](https://www.zfnd.org/grants/) nor [ZOMG](https://zcashomg.org/), have official releases about the split of grants by any specific category. The [guidance](https://zcashomg.org/what-we-fund.html) for viewing [ZOMG](https://zcashomg.org/) grants till date can be found [here](https://grants.zfnd.org/proposals/?filter=with_funding), this resource indicates that a total of `47` proposals have been funded so far since `2020`. The nature of these grants are as outlined in the [success metrics](#success-metrics) section. 
 
@@ -186,7 +186,7 @@ USD.
 
 
 
-# Disclaimer 
+# ⚠️Disclaimer 
 
 <details>
 
