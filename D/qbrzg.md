@@ -185,7 +185,7 @@ USD.
 
 
 
-# ⚠️Disclaimer 
+# ⚠️Disclaimer
 
 <details>
 
