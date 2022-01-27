@@ -167,18 +167,18 @@ Neither [ZF Foundation](https://www.zfnd.org/grants/) nor [ZOMG](https://zcashom
 
 This report gives a summary of the proposals are funded not distinguished by any specific segment. As an example, their [Q3 2021 REPORT](https://www.zfnd.org/blog/zf-q3-2021-report/). Has the following slide
 
-<details>
 
+<details>
 <summary>
 Slide 21 of Q3 2021 Report
 </summary>
-
 <p align="center"><a href="https://www.zfnd.org/blog/zf-q3-2021-report/" target="_blank">
   <img src=/D/imgs/zqr.png alt="zcash"></a>
 </p>
-
 </details>
 
+> During Q3, ZOMG approved 2 grants totalling $278,014
+USD. 
 
 
 
