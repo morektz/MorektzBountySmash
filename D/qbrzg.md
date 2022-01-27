@@ -160,6 +160,11 @@ You can view active proposals [HERE.](https://grants.zfnd.org/proposals) and off
 
 # Grants Split 
 
+Neither [ZF Foundation](https://www.zfnd.org/grants/) nor [ZOMG](https://zcashomg.org/), have official releases about the split of grants by any specific category. The [guidance](https://zcashomg.org/what-we-fund.html) for viewing [ZOMG](https://zcashomg.org/) grants till date can be found [here](https://grants.zfnd.org/proposals/?filter=with_funding), this resource indicates that a total of `47` proposals have been funded so far since `2020`. The nature of these grants are as outlined in the [success metrics](#success-metrics) section. 
+
+
+
+
 
 
 
