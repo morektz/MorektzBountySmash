@@ -164,7 +164,7 @@ Neither [ZF Foundation](https://www.zfnd.org/grants/) nor [ZOMG](https://zcashom
 [ZF Foundation](https://www.zfnd.org/grants/) puts out a quarterly report for the following purpose as stated on their official website
 > As with our previous quarterly reports, this report describes our financial inflow and outflows, with a detailed breakdown of our expenses, and we have included a snapshot of the Foundation’s financial position, in terms of liquid assets and liabilities that must be met using those assets.
 
-This report gives a summary of the proposals are funded not distinguished by any specific segment. As an example, their [Q3 2021 REPORT](https://www.zfnd.org/blog/zf-q3-2021-report/). Has the following slide
+This report gives a summary of the proposals which have been funded not distinguished by any specific segment. As an example, their [Q3 2021 REPORT](https://www.zfnd.org/blog/zf-q3-2021-report/). Has the following slide
 
 
 <details>
@@ -179,11 +179,7 @@ This report gives a summary of the proposals are funded not distinguished by any
 > During Q3, ZOMG approved 2 grants totalling $278,014
 USD. 
 
-
-
-
-
-
+Similar metrics have also been posted in their previous reports published on their official [blog.](https://www.zfnd.org/blog/)
 
 # 🟧Disclaimer
 
