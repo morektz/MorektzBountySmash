@@ -1,14 +1,14 @@
 <p align="center"><a href="https://bit.ly/morektz" target="_blank"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmorektz%2FMorektzBountySmash%2Fblob%2Fmain%2FD%2Fqbrzg.md&count_bg=%239F02A0&title_bg=%23000000&icon=ruby.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>  <img src="https://img.shields.io/badge/LoC-173-brightgreen.svg?style=plastic"> <a href="https://gitpod.io/#https://github.com/morektz/MorektzBountySmash" target="_blank">  <img src="https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod"/></a>
 </p>
 
-# Questbook Writeup - Research ZCash Grants 
+# 🕵️[Questbook Writeup - Research ZCash Grants](https://www.questbook.xyz/t/research-on-zcash-grants/32) 
 <p align="center"><a href="https://z.cash/" target="_blank">
   <img src=https://z.cash/wp-content/uploads/2020/03/zcash-logo-horizontal-fullcolor.svg width ="200" alt="zcash"></a><a href="https://www.zfnd.org/" target="_blank"><img src=https://www.zfnd.org/images/logo-white-background.png width ="100" alt="zcash">  <a href="https://grants.zfnd.org/"target="_blank"><img src=/D/imgs/ZFG.png alt="zcash"></a>
 </p>
 
 <p align="center"><a href="https://www.coingecko.com/en/coins/zcash" target="_blank"> ZCASH - Coingeco</a></p>
 
-# TOC
+# 📜TOC
 
 - [🔶Bounty Description](#details)
 - [🟧Introduction](#Introduction)
