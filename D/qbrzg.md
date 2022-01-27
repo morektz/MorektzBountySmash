@@ -20,6 +20,7 @@
 - [🟧Success Metrics](#success-metrics)
 - [🟧Wait Time](#wait-time)
 - [🟧Split of grants spend by categories](#grants-split)
+- [🟧Queries](#queries)
 - [⚠️DISCLAIMER](#disclaimer)
 
 --- 
@@ -181,6 +182,9 @@ USD.
 
 Similar metrics have also been posted in their previous reports published on their official [blog.](https://www.zfnd.org/blog/)
 
+# 🟧 Queries
+
+> Please open an [Github Issue](https://github.com/morektz/MorektzBountySmash/issues) for my attention.
 # 🟧Disclaimer
 
 <details>
@@ -200,3 +204,5 @@ ALL INFORMATION CONTAINED IN THIS DOCUMENT IS FROM THE [ZCASH OFFICIAL WEBSITE](
 <a href="https://bit.ly/morektz" target="_blank"> 
 <img src="https://www.gifs.cc/lines/line-light-animation.gif"/></a>
 </p>
+
+
