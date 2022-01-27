@@ -182,7 +182,7 @@ USD.
 
 Similar metrics have also been posted in their previous reports published on their official [blog.](https://www.zfnd.org/blog/)
 
-# 🟧 Queries
+# 🟧Queries
 
 > Please open an [Github Issue](https://github.com/morektz/MorektzBountySmash/issues) for my attention.
 # 🟧Disclaimer
