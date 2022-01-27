@@ -162,6 +162,23 @@ You can view active proposals [HERE.](https://grants.zfnd.org/proposals) and off
 
 Neither [ZF Foundation](https://www.zfnd.org/grants/) nor [ZOMG](https://zcashomg.org/), have official releases about the split of grants by any specific category. The [guidance](https://zcashomg.org/what-we-fund.html) for viewing [ZOMG](https://zcashomg.org/) grants till date can be found [here](https://grants.zfnd.org/proposals/?filter=with_funding), this resource indicates that a total of `47` proposals have been funded so far since `2020`. The nature of these grants are as outlined in the [success metrics](#success-metrics) section. 
 
+[ZF Foundation](https://www.zfnd.org/grants/) puts out a quarterly report for the following purpose as stated on their official website
+> As with our previous quarterly reports, this report describes our financial inflow and outflows, with a detailed breakdown of our expenses, and we have included a snapshot of the Foundation’s financial position, in terms of liquid assets and liabilities that must be met using those assets.
+
+This report gives a summary of the proposals are funded not distinguished by any specific segment. As an example, their [Q3 2021 REPORT](https://www.zfnd.org/blog/zf-q3-2021-report/). Has the following slide
+
+<details>
+
+<summary>
+Slide 21 of Q3 2021 Report
+</summary>
+
+<p align="center"><a href="https://www.zfnd.org/blog/zf-q3-2021-report/" target="_blank">
+  <img src=/D/imgs/zqr.png alt="zcash"></a>
+</p>
+
+</details>
+
 
 
 
