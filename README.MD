@@ -23,4 +23,9 @@ Bounty Submissions
 
 # Disclaimer 
 
+
+<p align="center"><a href="https://bit.ly/morektz" target="_blank">
+  <img src=https://media.giphy.com/media/Y5wlazC8lSVuU/giphy.gif alt="Morektz"></a>
+</p>
+
 I AM NOT ASSOCIATED WITH NOR GIVE A SHIT ABOUT THE ORGANIZATIONS WHOSE BOUNTIES HAVE BEEN HUNTED IN THE ABOVE MENTIONED TABLE. YOUR PARTICIPATION WITH THEM IS AT YOUR OWN RISK. 
