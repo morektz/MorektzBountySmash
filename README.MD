@@ -8,10 +8,6 @@
   <img src=https://media.giphy.com/media/aS8ypUweGOXMA/giphy-downsized.gif alt="Morektz"></a>
 </p>
 
-# Repo Description
-
-Bounty Submissions
-
 # Bounties 
 
 |n|Src|Type|Desc
