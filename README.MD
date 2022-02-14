@@ -19,3 +19,8 @@ Bounty Submissions
 1| [Questbook](https://www.questbook.app/) |Research Report | [Questbook Writeup - Research ZCash Grants](D/qbrzg.md)
 2| [Web3Camp](https://twitter.com/Girlscript1/status/1486940520257835010?s=20&t=4dafTvwHGcs5x2-_wOFrlQ) | Meme Contest | [Video Meme](https://cutt.ly/MorektzWeb3CampMemeContestEntry)
 3| [SuperTeam](https://superteam.fun/500-bounties) | Deep Dive | [StaderLabs Deep Dive](https://cutt.ly/MorektzSTBountyStaderLabsDeepDive)
+4 | [SuperTeam](https://superteam.fun/500-bounties) | Meme Contest | [StaderLabs Explainer Meme](https://cutt.ly/MorektzSuperTeamMemeContestStaderLabs)
+
+# Disclaimer 
+
+I AM NOT ASSOCIATED WITH NOR GIVE A SHIT ABOUT THE ORGANIZATIONS WHOSE BOUNTIES HAVE BEEN HUNTED IN THE ABOVE MENTIONED TABLE. YOUR PARTICIPATION WITH THEM IS AT YOUR OWN RISK. 
